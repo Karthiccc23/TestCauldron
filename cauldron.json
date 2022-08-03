@@ -5,6 +5,23 @@
       "name": "mainapp2",
       "platforms": [
         {
+          "name": "android",
+          "versions": [
+            {
+              "name": "1.0.0",
+              "codePush": {},
+              "container": {
+                "jsApiImpls": [],
+                "miniApps": [],
+                "nativeDeps": []
+              },
+              "isReleased": false,
+              "nativeDeps": [],
+              "yarnLocks": {}
+            }
+          ]
+        },
+        {
           "name": "ios",
           "versions": [
             {
